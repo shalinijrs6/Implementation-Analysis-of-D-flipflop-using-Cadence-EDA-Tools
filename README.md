@@ -47,6 +47,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
+![Screenshot 2024-10-21 202431](https://github.com/user-attachments/assets/b60acbdd-6755-4777-a169-7b8f47cfc8ed)
 
 
 
@@ -95,7 +96,7 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![Uploading Screenshot 2024-10-21 202322.png…]()
+![Screenshot 2024-10-21 202322](https://github.com/user-attachments/assets/e13eb027-65af-427b-81f4-c4f1c5b9ea53)
 
 
 
@@ -103,8 +104,8 @@ For Transient Analysis Settings and Output
  
  ![Screenshot 2024-10-21 202257](https://github.com/user-attachments/assets/16fcaa60-c69e-443c-9f73-aa20af1e6701)
  
- ![Uploading Screenshot 2024-10-21 202122.png…]()
- 
+ ![Screenshot 2024-10-21 202122](https://github.com/user-attachments/assets/33a76125-2ed9-4d1d-a657-23aa2f17b049)
+
 
 Results:
 The design and implementation of the D-flip-flop using Cadence EDA tools were successfully completed. The simulated results confirmed the correct operation of the flip-flop, with proper synchronization of the input data with the clock signal. Key performance parameters such as propagation delay, power consumption, and area utilization were evaluated, aligning with expected theoretical values.
