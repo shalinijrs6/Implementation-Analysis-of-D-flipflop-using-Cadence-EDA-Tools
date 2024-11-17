@@ -5,8 +5,13 @@ Aim:
 To design and implement a D-flip-flop using Cadence EDA tools, simulate its behavior, and analyze key performance parameters such as timing, power consumption, and resource utilization for a comprehensive understanding of sequential logic circuits.
 
 Tools Required:
+
 •	Personal Computer
 •	Cadence Virtuoso Software
+
+Circuit Diagram:
+
+![WhatsApp Image 2024-11-13 at 16 26 07_b424b3c8](https://github.com/user-attachments/assets/1d6a8774-8312-4b82-b548-50e5e2115e5c)
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
